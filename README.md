@@ -4,7 +4,7 @@ Hi 👋 My name is David Aremu
 FullStack Developer
 -------------------
 
-ove been learning coding for 5 years+ now i started out with html , css and js for frontend and php (Laravel framework) for backend. Then I switched to React Js for frontend Dev and Currently learning Node Js for Backend Development.
+I have been learning coding for 3 years+ now i started out with HTML, CSS and JS for frontend and PHP (Laravel framework) for backend. Then I switched to React Js for frontend Dev and Currently learning Node Js for Backend Development.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Coding Way](http://codingway.netlify.app)
